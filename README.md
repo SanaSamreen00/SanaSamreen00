@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sana Samreen</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif
+<img align="right" alt="Coding" width="400" src="mg align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshot/3848914/programmer.gif">
 
 ## About Me:
 - Currently learning Java backend development.
