@@ -26,12 +26,7 @@ I'm a Java Backend Developer in training, building scalable APIs and microservic
 ![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=sanasamreen00&layout=compact)
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=sanasamreen00)
 
-### Tech Stack:
-<div align="center">
-
-| Languages & Core | Frameworks & Tools | Databases & DevOps |
-|------------------|-------------------|-------------------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-47A337?style=for-the-badge&logo=hibernate&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+badge&logo=docker&logoColor=white) |
 
 | Cloud & APIs | Testing & More |
 |--------------|----------------|
