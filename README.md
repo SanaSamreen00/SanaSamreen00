@@ -1,12 +1,10 @@
 [![Follow](https://img.shields.io/badge/Follow%20@sanasamreen00-000?style=social&logo=github&logoColor=fff&link=https://github.com/sanasamreen00)](https://github.com/sanasamreen00)
 # You are here! I'm  Sana Samreen
 I'm a Java Backend Developer in training, building scalable APIs and microservices using Spring Boot, Hibernate, and cloud-native tools. 
-
 ## About Me:
 - Currently learning Java backend development.
 - Focus: RESTful APIs, Database Design, Authentication & Security.
 - Passionate about clean code, java, and contributing to open-source!
-
 ### Tech Stack:
 | HTML | CSS | JS | Tailwind | Bootstrap | Python |
 |------|-----|----|----------|------------|--------|
@@ -28,13 +26,6 @@ I'm a Java Backend Developer in training, building scalable APIs and microservic
 |--------------|----------------|
 | ![REST API](https://img.shields.io/badge/RESTful_API-0C9BE0?style=for-the-badge&logo=restapi&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-996633?style=for-the-badge&logo=jpa&logoColor=white) | ![JUnit](https://img.shields.io/badge/JUnit-25A1E3?style=for-the-badge&logo=junit5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-</div>
-
-## 📊 GitHub Stats
-<div align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=sanasamreen&show_icons=true&theme=radical&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanasamreen&layout=compact&theme=radical&hide_border=true)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanasamreen&theme=radical)
 </div>
 
 **🚀 Short-term goal:** Master Spring Boot microservices and land a backend role at a top tech company.  
