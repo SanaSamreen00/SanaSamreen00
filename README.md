@@ -49,7 +49,7 @@ badge&logo=docker&logoColor=white) |
 **🚀 Short-term goal:** Master Spring Boot microservices and land a backend role at a top tech company.  
 **Fun fact:** I love coding marathons ☕, exploring Hyderabad's street food, and dancing to Bollywood beats!
 
-[![Follow](https://img.shields.io/badge/Follow%20@sanasamreen-000?style=social&logo=github&logoColor=fff&link=https://github.com/sanasamreen)](https://github.com/sanasamreen)
+[![Follow](https://img.shields.io/badge/Follow%20@sanasamreen00-000?style=social&logo=github&logoColor=fff&link=https://github.com/sanasamreen00)](https://github.com/sanasamreen00)
 
 
 
