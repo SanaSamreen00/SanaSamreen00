@@ -28,9 +28,6 @@ I'm a Java Backend Developer in training, building scalable APIs and microservic
 ![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=sanasamreen00&layout=compact)
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=sanasamreen00)
 
-
-[![Follow](https://img.shields.io/badge/Follow%20@LAVANYARAPELLI-000?style=social&logo=github&logoColor=fff&link=https://github.com/YOURUSERNAME)]()
-
 ### Tech Stack:
 <div align="center">
 
