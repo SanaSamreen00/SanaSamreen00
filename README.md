@@ -1,3 +1,4 @@
+[![Follow](https://img.shields.io/badge/Follow%20@sanasamreen00-000?style=social&logo=github&logoColor=fff&link=https://github.com/sanasamreen00)](https://github.com/sanasamreen00)
 # You are here! I'm  Sana Samreen
 I'm a Java Backend Developer in training, building scalable APIs and microservices using Spring Boot, Hibernate, and cloud-native tools. 
 
@@ -19,24 +20,14 @@ I'm a Java Backend Developer in training, building scalable APIs and microservic
 |-------|------------|-----|---------|-----|-------|
 | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382F?style=for-the-badge&logo=redis&logoColor=white) |
 
-🎯 **GitHub Trophies**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanasamreen00)
-
 ## GitHub Stats:
 ![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=sanasamreen00&layout=compact)
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=sanasamreen00)
-
-badge&logo=docker&logoColor=white) |
 
 | Cloud & APIs | Testing & More |
 |--------------|----------------|
 | ![REST API](https://img.shields.io/badge/RESTful_API-0C9BE0?style=for-the-badge&logo=restapi&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-996633?style=for-the-badge&logo=jpa&logoColor=white) | ![JUnit](https://img.shields.io/badge/JUnit-25A1E3?style=for-the-badge&logo=junit5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sanasamreen&theme=radical&no-frame=true&margin-w=15&column=7)
 </div>
 
 ## 📊 GitHub Stats
@@ -49,7 +40,6 @@ badge&logo=docker&logoColor=white) |
 **🚀 Short-term goal:** Master Spring Boot microservices and land a backend role at a top tech company.  
 **Fun fact:** I love coding marathons ☕, exploring Hyderabad's street food, and dancing to Bollywood beats!
 
-[![Follow](https://img.shields.io/badge/Follow%20@sanasamreen00-000?style=social&logo=github&logoColor=fff&link=https://github.com/sanasamreen00)](https://github.com/sanasamreen00)
 
 
 
