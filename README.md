@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*8WHUHTAFLiGpBzkoZpdMTg.png)(https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*8WHUHTAFLiGpBzkoZpdMTg.png)
 
 <h1 align="center">You are here! I'm Sana Samreen</h1>
 <h3 align="center">A passionate developer from India</h3>
